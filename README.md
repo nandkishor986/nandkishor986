@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nandkishor
 
-<!--
-**nandkishor986/nandkishor986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & AWS Cloud Engineer with 3+ years of experience managing production AWS environments across multiple client accounts.
 
-Here are some ideas to get you started:
+Currently focused on strengthening Kubernetes, Terraform, and CI/CD engineering skills to build scalable, automated cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Expertise
+
+- AWS: EC2, VPC, IAM, RDS, ALB, Route 53, EKS, CloudWatch
+- Infrastructure as Code: Terraform (Remote State, Modules, State Locking)
+- CI/CD: Jenkins, GitHub, Docker
+- Containers & Orchestration: Docker, Kubernetes (EKS)
+- Automation: Python, Bash
+
+---
+
+## What I'm Building
+
+- Production-style AWS infrastructure using Terraform
+- EKS cluster deployments with scalable workloads
+- CI/CD pipelines with rollback strategy
+- Infrastructure monitoring and alerting setup
+
+---
+
+## 2026 Goals
+
+- Master Kubernetes architecture & debugging
+- Build production-ready EKS + Terraform project
+- Achieve AWS Solutions Architect Certification
