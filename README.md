@@ -8,11 +8,12 @@ Currently focused on strengthening Kubernetes, Terraform, and CI/CD engineering 
 
 ## Technical Expertise
 
-- AWS: EC2, VPC, IAM, RDS, ALB, Route 53, EKS, CloudWatch
-- Infrastructure as Code: Terraform (Remote State, Modules, State Locking)
-- CI/CD: Jenkins, GitHub, Docker
-- Containers & Orchestration: Docker, Kubernetes (EKS)
-- Automation: Python, Bash
+- AWS: EC2, VPC, IAM, RDS, ALB, Route 53, EKS, ECR, CloudFront, CloudTrail, SNS, ACM, AWS Backup
+- Infrastructure as Code: Terraform (Remote State, Modules, State Locking), CloudFormation
+- CI/CD: Jenkins, Git, GitHub, ArgoCD, Groovy
+- Containers & Orchestration: Docker, Kubernetes (EKS), Helm
+- Automation: Python, Bash, Shell Scripting, Linux
+- Monitoring: Prometheus, Grafana, CloudWatch
 
 ---
 
