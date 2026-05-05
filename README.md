@@ -1,6 +1,6 @@
 # Hi, I'm Nandkishor
 
-Cloud and DevOps Engineer with 3+ years of experience managing production AWS environments across multiple client accounts.
+Cloud and DevOps Engineer with hands-on experience managing production AWS environments across multiple client accounts.
 
 Currently focused on strengthening Kubernetes, Terraform, and CI/CD engineering skills to build scalable, automated cloud infrastructure.
 
