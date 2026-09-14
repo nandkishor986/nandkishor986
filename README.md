@@ -34,8 +34,6 @@ I enjoy working at the intersection of **cloud infrastructure, automation, conta
 
 ### ☁️ Cloud & Infrastructure
 
-\
-
 **AWS:** EC2, VPC, S3, IAM, RDS, Aurora, MySQL, ALB, Route 53, EKS, ECS, ECR, CloudFront, CloudTrail, SNS, ACM, AWS Backup
 
 **Azure:** Key Vault, Storage Accounts, Virtual Machines, Virtual Networks
@@ -43,8 +41,6 @@ I enjoy working at the intersection of **cloud infrastructure, automation, conta
 ---
 
 ### 🏗️ Infrastructure as Code
-
-\
 
 * Terraform
 * Remote State Management
@@ -55,10 +51,6 @@ I enjoy working at the intersection of **cloud infrastructure, automation, conta
 ---
 
 ### 🔄 CI/CD & GitOps
-
-
-
-\
 
 * Jenkins
 * GitHub Actions
@@ -71,9 +63,6 @@ I enjoy working at the intersection of **cloud infrastructure, automation, conta
 
 ### ☸️ Containers & Orchestration
 
-
-\
-
 * Docker
 * Kubernetes
 * Amazon EKS
@@ -84,9 +73,6 @@ I enjoy working at the intersection of **cloud infrastructure, automation, conta
 
 ### ⚙️ Automation & Scripting
 
-
-\
-
 * Python
 * Bash
 * Shell Scripting
@@ -96,8 +82,6 @@ I enjoy working at the intersection of **cloud infrastructure, automation, conta
 ---
 
 ### 📊 Monitoring & Observability
-
-\
 
 * Prometheus
 * Grafana
@@ -151,9 +135,9 @@ Production-Grade Cloud Infrastructure
 
 > I'm continuously building and documenting hands-on DevOps projects. More projects will be added as they evolve.
 
-### 🐚 Shell Scripting Practice
+### 🐚 Shell Scripting and Python Practice
 
-A personal learning repository focused on improving Linux and shell scripting skills through practical automation exercises.
+A personal learning repository focused on improving Linux, Python and Shell Scripting skills through practical automation exercises.
 
 **Focus:** Bash • Shell Scripting • Linux • Automation • Git
 
