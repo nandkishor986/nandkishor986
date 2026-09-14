@@ -45,3 +45,17 @@ IaC         : Terraform · CloudFormation
 CI/CD       : Jenkins · GitHub Actions · Azure DevOps · Argo CD
 Automation  : Python · Bash · Shell Scripting
 Monitoring  : Prometheus · Grafana · Loki · CloudWatch
+
+```
+
+$ ls technologies/
+Cloud, DevOps & Infrastructure
+<p align="left"> <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,git,github,gitlab,linux" /> </p>
+
+AWS
+
+EC2 · VPC · S3 · IAM · RDS · Aurora · MySQL · ALB · Route 53 · EKS · ECS · ECR · CloudFront · CloudTrail · SNS · ACM · AWS Backup
+
+Azure
+
+Key Vault · Storage Account · Virtual Machines · VNet
