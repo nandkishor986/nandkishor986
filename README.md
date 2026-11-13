@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandkishor Metange</h1>
-<h3 align="center">DevOps engineer based in Pune, India. I build and run cloud infrastructure on AWS and Azure, mostly with Terraform, CI/CD pipelines and containers. If I have to do something by hand twice, the third time it becomes a script.</h3>
+<h3 align="center">DevOps engineer based in Pune, India. I build and run cloud infrastructure on AWS and Azure, mostly with Terraform, CI/CD pipelines and Containers. If I have to do something by hand twice, the third time it becomes a script.</h3>
 
 - 🌱 I’m currently learning **Kubernetes, end to end. I'm preparing for the CKA (Certified Kubernetes Administrator) exam and using it as an excuse to learn the parts you can skip when a managed service does them for you: Cluster setup and upgrades – building clusters with kubeadm, upgrading them, backing up and restoring etcd Workloads and scheduling – Deployments, rollouts and rollbacks, resource limits, taints, tolerations and affinity. Networking – Services, Ingress, CoreDNS and NetworkPolicies. Storage – PersistentVolumes, claims and StorageClasses. Security – RBAC, ServiceAccounts and security contexts Troubleshooting – broken nodes, failing control plane components, and pods that won't start.**
 
