@@ -21,7 +21,7 @@ Kubernetes beyond the basics: EKS cluster architecture, networking, and troubles
 | Area | Tools |
 | --- | --- |
 | Cloud | AWS, Azure |
-| Infrastructure as code | Terraform, Ansible |
+| Infrastructure as code | Terraform, Ansible, CloudFormation |
 | CI/CD | Jenkins, Azure DevOps, Git |
 | Containers | Docker, Kubernetes |
 | Monitoring | Grafana |
