@@ -34,5 +34,5 @@ Get in touch
 
 I'm happy to collaborate on DevOps, cloud and infrastructure projects, or just compare notes on Terraform and Kubernetes.
 
-LinkedIn: nandkishor-metange
+LinkedIn: https://www.linkedin.com/nandkishor-metange
 Email: metangenandkishor2805@gmail.com
